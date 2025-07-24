@@ -10,5 +10,6 @@
 
 📫 Como me encontrar:
 
-LinkedIn
-Email
+LinkedIn:
+
+Email:
