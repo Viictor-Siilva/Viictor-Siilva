@@ -12,4 +12,4 @@
 
 LinkedIn:
 
-Email:
+Email:victordaniel.vd2003@gmail.com
