@@ -19,9 +19,10 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🔧 Atuo com suporte técnico e TI, resolvendo desde falhas de hardware até problemas de software no dia a dia de clientes.
-- 🎓 Estudante de Sistemas de Informação (SI) na UNIVAS.
+- 🔧 Atuo com **suporte técnico e TI**, resolvendo desde falhas de hardware até problemas de software no dia a dia de clientes.
+- 🎓 Estudante de **Sistemas de Informação (SI)** na **UNIVAS**.
 - 🖥️ Experiência prática com diagnóstico de notebooks e desktops (POST, beep codes, RAM, DIMM), impressoras (reset de contador Epson), redes locais e configuração de compartilhamentos no Windows.
+- 🧾 Já resolvi desde bugs em softwares de declaração de imposto de renda até falhas de conexão em apps como WhatsApp Web.
 - 📚 Em paralelo, estudo redes, virtualização, cibersegurança e fundamentos de sistemas distribuídos.
 - 🚀 Também colaboro em projetos acadêmicos e de grupo, unindo TI com desenvolvimento de software.
 
@@ -40,18 +41,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viictor-Siilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viictor-Siilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viictor-Siilva&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
-</p>
-
----
 
 ### 📫 Contato
 
@@ -61,5 +50,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Viictor-Siilva&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=2E9EF7&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Victor-Siilva&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=2E9EF7&style=flat" alt="Profile views"/>
 </p>
