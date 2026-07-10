@@ -22,7 +22,6 @@
 - 🔧 Atuo com **suporte técnico e TI**, resolvendo desde falhas de hardware até problemas de software no dia a dia de clientes.
 - 🎓 Estudante de **Sistemas de Informação (SI)** na **UNIVAS**.
 - 🖥️ Experiência prática com diagnóstico de notebooks e desktops (POST, beep codes, RAM, DIMM), impressoras (reset de contador Epson), redes locais e configuração de compartilhamentos no Windows.
-- 🧾 Já resolvi desde bugs em softwares de declaração de imposto de renda até falhas de conexão em apps como WhatsApp Web.
 - 📚 Em paralelo, estudo redes, virtualização, cibersegurança e fundamentos de sistemas distribuídos.
 - 🚀 Também colaboro em projetos acadêmicos e de grupo, unindo TI com desenvolvimento de software.
 
